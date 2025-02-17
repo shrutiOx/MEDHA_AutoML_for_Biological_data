@@ -1,0 +1,7 @@
+1. All frameworks are given here .
+2. To avoid getting errors, it is configured to input the given csvs/pt files/pkls in each folder.User must put their own dataset and change the csv names in the frameworks along with mandatory parameters defining their data (example encoding type, start and end columns etc) and run the modules.
+3. In Methods section extensively all parameters are described. For point 2 please refer to Methods.
+4. No output or input names must be changed. If changed then user must take care to put the variable in subsequent function.
+5. These frameworks are templates. User can just edit a few parameters and run themm
+6. For model reproduction remove the given pt and pkl and put the model achieved by the framework on your own dataset.
+7. Test cases discussed in the study have been uploaded along with code, outputs and inputs in folder - Final_Runs_Test_Cases
