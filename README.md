@@ -47,21 +47,7 @@ graphs and create relevant datasets and apply the same to Graph-architecture-sea
 optimal model. This model is then trained with K-Fold cross validation where internally the dataset is divided into 2 parts : train, test . Thus as the end result we obtain  the mean test accuracies and a 
 trained model which can be applied on independent test-datasets . 
 
-Framework name	Function
-Classification_Advanced_AutoHPODART	Fully automated (NAS + HPO) pipeline for bio-sequence classification with advanced functionality – sequence + hand-crafted features/numeric values
-Classification_Advanced_semi_manual	Partially automated (NAS) pipeline for bio-sequence classification with advanced functionality – sequence + hand-crafted features/numeric values
-Classification_Modelrepro_advanced	Model reproduction template for above two
-Classification_Simple_AutoHPODART	Fully automated (NAS + HPO) pipeline for bio-sequence classification with sequences only
-Classification_Simple_semi_manual_learning	Partially automated (NAS) pipeline for bio-sequence classification with sequences only
-Classification_Modelrepro_Simple	Model reproduction template for above two
-Custom_protein_structure_based_prediction	Fully automated (NAS + HPO) pipeline for custom dataset protein structure classification 
-Regression_Advanced_AutoHPODART	Fully automated (NAS + HPO) pipeline for bio-sequence regression with advanced functionality – sequence + hand-crafted features/numeric values
-Regression_Advanced_semi_manual	Partially automated (NAS) pipeline for bio-sequence regression with sequence + hand-crafted features/numeric values
-Regression_Modelrepro_advanced	Model reproduction template for above two
-Regression_Simple_AutoHPODART	Fully automated (NAS + HPO) pipeline for bio-sequence regression 
-Regression_Simple_semi_manual_learning	Partially automated (NAS) pipeline for bio-sequence regression
-Regression_Modelrepro_Simple	Model reproduction template for above two
-Standard_protein_structure_based_prediction	Fully automated (NAS + HPO) pipeline for standard dataset protein structure classification
+![image](https://github.com/user-attachments/assets/f47f1c10-b677-428a-922d-49a9cd50c7a8)
 
 
 Please note that this is a very preliminary work, done in 2023.
