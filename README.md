@@ -52,3 +52,7 @@ trained model which can be applied on independent test-datasets .
 
 Please note that this is a very preliminary work, done in 2023.
 
+How to run this package :
+
+Just install the depdendencies, put the package in the folder of the template which you want to run and run the template. Only change necessary details related to your dataset.
+
