@@ -41,7 +41,7 @@ torch.cuda.empty_cache()
 '''1.Get training data '''
 
 '''Either load the data'''
-'''
+
 Graphein_object = Graphein_Caller(datacsv='structural_rearrangement_data_TRAIN.csv',
 name='protein_train',
 batch_size=20)
@@ -51,11 +51,11 @@ dataset,train_loader,val_loader,max_nodes= Graphein_object.GetData()
 
 
 print('len(dataset) out',len(dataset))
-'''
+
 
 
 '''OR you can get processed data if data was already processed'''
-
+'''
 max_nodes=792
 
 Graphein_object = ProcessedDataExtractor(data_loc='./processed/data_protein_train.pt', 
@@ -65,7 +65,7 @@ Graphein_object = ProcessedDataExtractor(data_loc='./processed/data_protein_trai
 
 
 dataset = Graphein_object.GetProcessedData()
-
+'''
 
 
 
