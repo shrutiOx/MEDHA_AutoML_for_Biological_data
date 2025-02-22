@@ -15,7 +15,7 @@ On a high level, DARTS and HyperOPT design a model (sub
 optimal) which is further trained with K-Fold CV to make the 
 final model.
 
-MEDHA can process a range of tasks which includes 1) Classification 2) Regression (single/multi-target) for Biological sequences and 1) Classification for Proteins. It is equipped with advanced functionalities where a biological sequence can be appended with other numerical features. 
+MEDHA can process a range of tasks which includes 1) Classification 2) Regression (single/multi-target) for Biological sequences and 1) Classification for Proteins. It is equipped with advanced functionalities where a biological sequence can be appended with other numerical features. For neural-architecture-search I used DARTS (Differentiable Architecture Search https://arxiv.org/abs/1806.09055 (NNI package :https://nni.readthedocs.io/en/stable/ was used for implementation) and HyperOPT https://hyperopt.github.io/hyperopt/ for hyperparameter optimization ). For graph processing I used my custom made function and Graphein library https://graphein.ai/ ) 
 
 The functionalities of MEDHA are outlined below. 
 
