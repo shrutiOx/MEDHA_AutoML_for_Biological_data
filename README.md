@@ -55,7 +55,7 @@ Additional information Regarding Templates
 
 ![image](https://github.com/user-attachments/assets/f47f1c10-b677-428a-922d-49a9cd50c7a8)
 
-#How to run this package :
+# How to run this package :
 
 The framework is designed for simple integration with your workflow:
 
@@ -69,9 +69,9 @@ pip install -r DEPENDENCIES.txt
 
 Usage instructions:
 
-# 1. Copy the MEDHA folder (main framework) to your desired template folder within MEDHA_Frameworks
-# 2. Modify the template file parameters according to your dataset
-# 3. Run the template file
+1. Copy the MEDHA folder (main framework) to your desired template folder within MEDHA_Frameworks
+2. Modify the template file parameters according to your dataset
+3. Run the template file
 
 Example:
 
