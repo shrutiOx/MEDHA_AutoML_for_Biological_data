@@ -5,7 +5,7 @@
  
 MEDHA (sanskrit : Intellect) is an end-to-end automated deep learning pipeline for biological sequence and structure analysis. This framework bridges the gap between molecular biology and deep learning by automating the entire modeling workflow from data pre-processing to model generation through neural-architecture-search, model optimization by hyperparameter-optimization , model training by k-fold cross-validation to  model deployment.
 
-This is a prelim work done in DPhil first year at Oxford University under the supervision of Dr Peter Minary. Recent work are in progress and will be uploaded in Github once subitted to journals/conferences.
+This is a prelim work done in DPhil (in Computer Science) first year at Oxford University under the supervision of Dr Peter Minary. Recent work are in progress and will be uploaded in Github once subitted to journals/conferences.
 
 ![image](https://github.com/user-attachments/assets/78de681d-e25f-464b-a352-98ea901d328a)
 
