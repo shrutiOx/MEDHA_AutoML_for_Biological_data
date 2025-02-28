@@ -1,4 +1,4 @@
-MEDHA: AutoML for Biological Data (VERSION 0.1)
+# MEDHA: AutoML for Biological Data (VERSION 0.1)
 
  Preliminary work in DPhil - Automated Deep Learning Framework  for Biological sequences and structures (done in 2023)
 
